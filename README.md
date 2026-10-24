@@ -22,7 +22,8 @@ Focused on developing practical skills in cybersecurity, secure software develop
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Virtual Machines](https://img.shields.io/badge/Virtual_Machines-555555?style=flat-square&logo=virtualbox&logoColor=white)
 
-**Cloud & Networking**  
+**Cloud & Networking**
+
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-00599C?style=flat-square)
@@ -30,7 +31,8 @@ Focused on developing practical skills in cybersecurity, secure software develop
 ![Network Configuration](https://img.shields.io/badge/Network_Configuration-2E8B57?style=flat-square)
 ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-6A5ACD?style=flat-square)
 
-**Cybersecurity**  
+**Cybersecurity**
+
 ![Network Security](https://img.shields.io/badge/Network_Security-F44336?style=flat-square)
 ![System Administration](https://img.shields.io/badge/System_Administration-607D8B?style=flat-square)
 ![Security Monitoring](https://img.shields.io/badge/Security_Monitoring-8E24AA?style=flat-square)
