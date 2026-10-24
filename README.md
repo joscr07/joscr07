@@ -12,6 +12,7 @@ Focused on developing practical skills in cybersecurity, secure software develop
 ## Technical Skills
 
 **Programming Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&label=Python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
