@@ -12,12 +12,12 @@ Focused on developing practical skills in cybersecurity, secure software develop
 ## Technical Skills
 
 **Programming Languages**
-- [Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&label=Python)
-- [Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&label=Python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **Development Tools & Operating Systems**
-- [Git & GitHub](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- [Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git & GitHub](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 - [Virtual Machines]
 
 **Cloud & Networking**
